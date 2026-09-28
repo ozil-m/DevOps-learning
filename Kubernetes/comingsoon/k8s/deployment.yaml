@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: comingsoon-page
-        image: triple3a/comingsoon-page:latest
+        image: ozilmoh/comingsoon-pag:latest
         ports:
         - containerPort: 80
